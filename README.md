@@ -9,7 +9,7 @@ This project is a video management application built using the MERN stack. It al
 - **Authentication:** JSON Web Tokens (JWT)
 
 ### Deploy Link
-https://stunning-starship-9ddcf9.netlify.app/signup
+https://stunning-starship-9ddcf9.netlify.app/
 
 ### Setup
 1. Clone the repository:
